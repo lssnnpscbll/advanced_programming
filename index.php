@@ -19,8 +19,8 @@
     $username = "lssnnpscbll";
     $email = "lezzaanne@gmail.com";
     
-    echo "Name: " . $name;
-    echo "Username: " . $username;
+    echo "</br>Name: " . $name;
+    echo "</br>Username: " . $username;
     echo "Email: " . $email . "</br></br>";
 
     $user = new User();
